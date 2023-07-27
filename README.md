@@ -6,7 +6,7 @@ EpicGames has made captchas mandatory for claiming free games. Currently, epicga
 
 ## Description
 Claim [available free game promotions](https://www.epicgames.com/store/free-games) from the Epic Games Store.
-
+ 
 ## Requirements
  * [DeviceAuthGenerator](https://github.com/jackblk/DeviceAuthGenerator/releases)
  * [Git](https://git-scm.com/downloads)
